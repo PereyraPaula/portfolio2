@@ -29,7 +29,7 @@ export default {
   data(){
     return {
       proyects: [
-        { id:1, name: 'Porfolio Personal', desc:"Primer porfolio que creé.", img: 'proyect1.webp', link: 'https://paulapereyra.netlify.app/', code:true, techs: ["HTML","CSS","JS"]},
+        { id:1, name: 'Porfolio Personal', desc:"Primer porfolio creado.", img: 'proyect1.webp', link: 'https://paulapereyra.netlify.app/', code:true, techs: ["HTML","CSS","JS"]},
         { id:2, name: 'Estudio contable / Jurídico', desc:"", img: 'proyect2.webp', link: 'http://zonisyasociados.com.ar/',code:false, techs: ["WORDPRESS"] },
         { id:3, name: 'Sistema de stock', desc:"Proyecto hecho en la práctica de la facultad.", img: 'proyect3.webp', link: 'https://github.com/PaulaP12/sistemaStock',code:true, techs: ["HTML","CSS","JS","VUEJS","PHP","LARAVEL"]},
         { id:4, name: 'Porfolio personal', desc:"", img: 'proyect4.webp', link: '',code:true, techs: ["HTML","CSS","Tailwaind","JS","VUEJS"]},

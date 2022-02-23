@@ -25,7 +25,7 @@
 					</span>
 				</p>
 				<div class="flex flex-col items-center lg:flex lg:flex-row lg:justify-around">
-					<button aria-label="Curriculum" class="w-52 mt-5 bg-dark-pink hover:bg-dark-pink-hover text-white font-bold py-2 px-4 rounded">Curriculum</button>
+					<a href="curriculum.pdf" class="w-52 mt-5 text-center bg-dark-pink hover:bg-dark-pink-hover text-white font-bold py-2 px-4 rounded">Curriculum</a>
 					<button aria-label="Contacto" @click="contactView()" class="w-52 mt-5 bg-dark-pink hover:bg-dark-pink-hover text-white font-bold py-2 px-4 rounded">{{btn_contact}}</button>
 				</div>
 			</div>
